@@ -1,0 +1,298 @@
+﻿Log file open, 09/06/25 17:53:24
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-41CFD4144BC2CD6029565084C2CBC4E3
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../../Users/sumed/OneDrive/Desktop/Lambdays_Labyrinth/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogInit: ExecutableName: UnrealPak.exe
+LogInit: Build: ++UE5+Release-5.5-CL-40574608
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=1dfbf05d4b127e11e15ae3973e5fe0b6
+LogInit: DeviceId=
+LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
+LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
+LogInit: Net CL: 37670630
+LogInit: OS: Windows 11 (24H2) [10.0.26100.4946] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Mar  7 2025 14:59:45
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.38.33130.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.5
+LogInit: Command Line: -CreateGlobalContainer=C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\StagedBuilds\Windows\Lambdays_Labyrinth\Content\Paks\global.utoc -PackageStoreManifest=C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\Cooked\Windows\Lambdays_Labyrinth\Metadata\packagestore.manifest -CookedDirectory=C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\Cooked\Windows -Commands="C:\Users\sumed\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt" -ScriptObjects=C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\Cooked\Windows\Lambdays_Labyrinth\Metadata\scriptobjects.bin -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=7 -compressmethod=Kraken -cryptokeys=C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\Cooked\Windows\Lambdays_Labyrinth\Metadata\Crypto.json -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -nopak
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 170
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 15
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 119
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.42ms
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2025.09.06-16.53.24:469][  0]LogInit: Computer: MSI
+[2025.09.06-16.53.24:469][  0]LogInit: User: SumedhWasnik
+[2025.09.06-16.53.24:469][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.09.06-16.53.24:469][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.09.06-16.53.24:802][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2025.09.06-16.53.24:802][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx) Virtual=31.4GB
+[2025.09.06-16.53.24:802][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.09.06-16.53.24:802][  0]LogMemory: Process Physical Memory: 62.53 MB used, 63.32 MB peak
+[2025.09.06-16.53.24:802][  0]LogMemory: Process Virtual Memory: 122.21 MB used, 122.21 MB peak
+[2025.09.06-16.53.24:802][  0]LogMemory: Physical Memory: 9771.41 MB used,  6314.07 MB free, 16085.48 MB total
+[2025.09.06-16.53.24:802][  0]LogMemory: Virtual Memory: 20401.59 MB used,  11769.37 MB free, 32170.96 MB total
+[2025.09.06-16.53.24:809][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2025.09.06-16.53.24:810][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2025.09.06-16.53.24:810][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.09.06-16.53.24:810][  0]LogInit: Using OS detected language ().
+[2025.09.06-16.53.24:811][  0]LogInit: Using OS detected locale ().
+[2025.09.06-16.53.24:811][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.09.06-16.53.24:812][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.09.06-16.53.24:812][  0]LogInit: Using OS detected language ().
+[2025.09.06-16.53.24:812][  0]LogInit: Using OS detected locale ().
+[2025.09.06-16.53.24:812][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.09.06-16.53.24:812][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.09.06-16.53.24:812][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/sumed/OneDrive/Desktop/Lambdays_Labyrinth/
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\Cooked\Windows\Lambdays_Labyrinth\Metadata\Crypto.json'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Container signing - DISABLED
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Directory index - ENABLED
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using compression block size '65536'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using max partition size '0'
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Not using DDC for compression
+[2025.09.06-16.53.24:813][  0]LogIoStore: Display: Using command list file: 'C:\Users\sumed\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
+[2025.09.06-16.53.24:823][  0]LogIoStore: Display: Selected Oodle level 7 (Optimal3) from command line for shaders
+[2025.09.06-16.53.24:824][  0]LogIoStore: Display: Fetched 1799 oplog items from Manifest in 0.00 seconds
+[2025.09.06-16.53.24:832][  0]LogIoStore: Display: Parsed 1799 oplog items 0.01 seconds, 2570 chunks
+[2025.09.06-16.53.24:848][  0]LogIoStore: Display: Using input asset registry: C:/Users/sumed/OneDrive/Desktop/Lambdays_Labyrinth/Saved/Cooked/Windows/Lambdays_Labyrinth/Metadata/DevelopmentAssetRegistry.bin
+[2025.09.06-16.53.24:867][  0]LogIoStore: Display: Loaded 784 chunk hashes from AssetRegistry in 0.03 seconds, 784 hashes updated in 0.00 seconds
+[2025.09.06-16.53.24:872][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\sumed\OneDrive\Desktop\Lambdays_Labyrinth\Saved\Cooked\Windows'
+[2025.09.06-16.53.24:950][  0]LogIoStore: Display: Found '4364' files
+[2025.09.06-16.53.24:963][  0]LogIoStore: Display: Creating container targets...
+[2025.09.06-16.53.24:974][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=7=Optimal3
+[2025.09.06-16.53.25:031][  0]LogIoStore: Display: Parsing packages...
+[2025.09.06-16.53.25:031][  0]LogIoStore: Display: Reading package assets...
+[2025.09.06-16.53.25:575][  0]LogIoStore: Display: Reading 1000/1786: 'C:/Users/sumed/OneDrive/Desktop/Lambdays_Labyrinth/Saved/Cooked/Windows/Lambdays_Labyrinth/Content/Assets/L4_Libarary/Material/MaterialFunction/GradientRemap.uasset'
+[2025.09.06-16.53.25:749][  0]LogIoStore: Display: Packages read 1,786 files in 0.72 seconds, 3,576,474 total bytes, 4,988,750 bytes per second
+[2025.09.06-16.53.25:762][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 7 (Optimal3)
+[2025.09.06-16.53.25:796][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 360 groups (135 of them didn't need new indices), average uncompressed size 155800 bytes, min 249 bytes, max 1047981 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.09.06-16.53.28:496][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3915 shaders as 360 groups. Library size changed from 12619 KB (4.34 : 1 ratio) to 4045 KB (13.54 : 1 ratio), 32.06% of previous.
+[2025.09.06-16.53.28:626][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 542 groups (183 of them didn't need new indices), average uncompressed size 211303 bytes, min 1249 bytes, max 1045875 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.09.06-16.53.33:091][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 7584 shaders as 542 groups. Library size changed from 85603 KB (1.31 : 1 ratio) to 44660 KB (2.50 : 1 ratio), 52.17% of previous.
+[2025.09.06-16.53.33:109][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 230 groups (81 of them didn't need new indices), average uncompressed size 62160 bytes, min 249 bytes, max 965040 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.09.06-16.53.33:802][  0]LogIoStore: Display: Lambdays_Labyrinth-PCD3D_SM5(PCD3D_SM5): Recompressed 1157 shaders as 230 groups. Library size changed from 3778 KB (3.69 : 1 ratio) to 1431 KB (9.75 : 1 ratio), 37.89% of previous.
+[2025.09.06-16.53.33:825][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 259 groups (52 of them didn't need new indices), average uncompressed size 125750 bytes, min 2342 bytes, max 955857 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.09.06-16.53.35:017][  0]LogIoStore: Display: Lambdays_Labyrinth-PCD3D_SM6(PCD3D_SM6): Recompressed 2440 shaders as 259 groups. Library size changed from 24330 KB (1.31 : 1 ratio) to 15738 KB (2.02 : 1 ratio), 64.69% of previous.
+[2025.09.06-16.53.35:020][  0]LogIoStore: Display: Shaders processed in 9.26 seconds
+[2025.09.06-16.53.35:022][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
+[2025.09.06-16.53.35:025][  0]LogIoStore: Display: Processing redirects...
+[2025.09.06-16.53.35:025][  0]LogIoStore: Display: Creating disk layout...
+[2025.09.06-16.53.35:029][  0]LogIoStore: Display: Ordered 1786 packages using fallback bundle order
+[2025.09.06-16.53.35:042][  0]LogIoStore: Display: Serializing container(s)...
+[2025.09.06-16.53.37:043][  0]LogIoStore: Display: Hashing 2206/3964... [Physical: 870 MiB, Virtual: 3746 MiB]
+[2025.09.06-16.53.39:050][  0]LogIoStore: Display: Writing chunks 1127/3964... [15 compressed] [8380 compression tasks] [Physical: 2487 MiB, Virtual: 5494 MiB]
+[2025.09.06-16.53.41:052][  0]LogIoStore: Display: Writing chunks 1139/3964... [27 compressed] [9357 compression tasks] [Physical: 2778 MiB, Virtual: 5773 MiB]
+[2025.09.06-16.53.43:057][  0]LogIoStore: Display: Writing chunks 1140/3964... [28 compressed] [9227 compression tasks] [Physical: 2780 MiB, Virtual: 5750 MiB]
+[2025.09.06-16.53.45:058][  0]LogIoStore: Display: Writing chunks 1154/3964... [42 compressed] [9435 compression tasks] [Physical: 2847 MiB, Virtual: 5800 MiB]
+[2025.09.06-16.53.47:060][  0]LogIoStore: Display: Writing chunks 1163/3964... [51 compressed] [9448 compression tasks] [Physical: 2885 MiB, Virtual: 5809 MiB]
+[2025.09.06-16.53.49:063][  0]LogIoStore: Display: Writing chunks 1185/3964... [73 compressed] [9454 compression tasks] [Physical: 2921 MiB, Virtual: 5820 MiB]
+[2025.09.06-16.53.51:064][  0]LogIoStore: Display: Writing chunks 1186/3964... [74 compressed] [9312 compression tasks] [Physical: 2939 MiB, Virtual: 5813 MiB]
+[2025.09.06-16.53.53:074][  0]LogIoStore: Display: Writing chunks 1207/3964... [93 compressed] [9460 compression tasks] [Physical: 2986 MiB, Virtual: 5821 MiB]
+[2025.09.06-16.53.55:074][  0]LogIoStore: Display: Writing chunks 1219/3964... [105 compressed] [9486 compression tasks] [Physical: 3001 MiB, Virtual: 5806 MiB]
+[2025.09.06-16.53.57:077][  0]LogIoStore: Display: Writing chunks 1222/3964... [110 compressed] [9419 compression tasks] [Physical: 3033 MiB, Virtual: 5814 MiB]
+[2025.09.06-16.53.59:077][  0]LogIoStore: Display: Writing chunks 1253/3964... [140 compressed] [9513 compression tasks] [Physical: 3089 MiB, Virtual: 5838 MiB]
+[2025.09.06-16.54.01:082][  0]LogIoStore: Display: Writing chunks 1297/3964... [181 compressed] [9395 compression tasks] [Physical: 3132 MiB, Virtual: 5861 MiB]
+[2025.09.06-16.54.03:092][  0]LogIoStore: Display: Writing chunks 1332/3964... [216 compressed] [9447 compression tasks] [Physical: 3162 MiB, Virtual: 5867 MiB]
+[2025.09.06-16.54.05:103][  0]LogIoStore: Display: Writing chunks 1359/3964... [233 compressed] [9384 compression tasks] [Physical: 3182 MiB, Virtual: 5872 MiB]
+[2025.09.06-16.54.07:127][  0]LogIoStore: Display: Writing chunks 1390/3964... [264 compressed] [9411 compression tasks] [Physical: 3239 MiB, Virtual: 5896 MiB]
+[2025.09.06-16.54.09:129][  0]LogIoStore: Display: Writing chunks 1411/3964... [287 compressed] [9388 compression tasks] [Physical: 3290 MiB, Virtual: 5914 MiB]
+[2025.09.06-16.54.11:135][  0]LogIoStore: Display: Writing chunks 1724/3964... [593 compressed] [9232 compression tasks] [Physical: 3346 MiB, Virtual: 5944 MiB]
+[2025.09.06-16.54.13:136][  0]LogIoStore: Display: Writing chunks 1748/3964... [615 compressed] [9117 compression tasks] [Physical: 3349 MiB, Virtual: 5924 MiB]
+[2025.09.06-16.54.15:148][  0]LogIoStore: Display: Writing chunks 1796/3964... [655 compressed] [9193 compression tasks] [Physical: 3391 MiB, Virtual: 5939 MiB]
+[2025.09.06-16.54.17:154][  0]LogIoStore: Display: Writing chunks 1817/3964... [697 compressed] [9111 compression tasks] [Physical: 3394 MiB, Virtual: 5923 MiB]
+[2025.09.06-16.54.19:158][  0]LogIoStore: Display: Writing chunks 1927/3964... [782 compressed] [8910 compression tasks] [Physical: 3387 MiB, Virtual: 5895 MiB]
+[2025.09.06-16.54.21:160][  0]LogIoStore: Display: Writing chunks 1936/3964... [791 compressed] [8743 compression tasks] [Physical: 3396 MiB, Virtual: 5877 MiB]
+[2025.09.06-16.54.23:169][  0]LogIoStore: Display: Writing chunks 2124/3964... [1037 compressed] [8971 compression tasks] [Physical: 3493 MiB, Virtual: 5957 MiB]
+[2025.09.06-16.54.25:171][  0]LogIoStore: Display: Writing chunks 2464/3964... [1261 compressed] [8649 compression tasks] [Physical: 3482 MiB, Virtual: 5922 MiB]
+[2025.09.06-16.54.27:171][  0]LogIoStore: Display: Writing chunks 2756/3964... [1461 compressed] [8319 compression tasks] [Physical: 3488 MiB, Virtual: 5908 MiB]
+[2025.09.06-16.54.29:175][  0]LogIoStore: Display: Writing chunks 2916/3964... [1581 compressed] [8036 compression tasks] [Physical: 3517 MiB, Virtual: 5900 MiB]
+[2025.09.06-16.54.31:183][  0]LogIoStore: Display: Writing chunks 3164/3964... [1773 compressed] [7611 compression tasks] [Physical: 3500 MiB, Virtual: 5827 MiB]
+[2025.09.06-16.54.33:191][  0]LogIoStore: Display: Writing chunks 3180/3964... [1787 compressed] [7372 compression tasks] [Physical: 3502 MiB, Virtual: 5775 MiB]
+[2025.09.06-16.54.35:193][  0]LogIoStore: Display: Writing chunks 3194/3964... [1801 compressed] [7219 compression tasks] [Physical: 3502 MiB, Virtual: 5758 MiB]
+[2025.09.06-16.54.37:194][  0]LogIoStore: Display: Writing chunks 3211/3964... [1818 compressed] [7025 compression tasks] [Physical: 3490 MiB, Virtual: 5719 MiB]
+[2025.09.06-16.54.39:220][  0]LogIoStore: Display: Writing chunks 3224/3964... [1831 compressed] [6830 compression tasks] [Physical: 3485 MiB, Virtual: 5691 MiB]
+[2025.09.06-16.54.41:228][  0]LogIoStore: Display: Writing chunks 3227/3964... [1836 compressed] [6687 compression tasks] [Physical: 3486 MiB, Virtual: 5671 MiB]
+[2025.09.06-16.54.43:247][  0]LogIoStore: Display: Writing chunks 3239/3964... [1846 compressed] [6555 compression tasks] [Physical: 3460 MiB, Virtual: 5620 MiB]
+[2025.09.06-16.54.45:250][  0]LogIoStore: Display: Writing chunks 3260/3964... [1867 compressed] [6389 compression tasks] [Physical: 3462 MiB, Virtual: 5601 MiB]
+[2025.09.06-16.54.47:265][  0]LogIoStore: Display: Writing chunks 3283/3964... [1890 compressed] [6224 compression tasks] [Physical: 3477 MiB, Virtual: 5602 MiB]
+[2025.09.06-16.54.49:269][  0]LogIoStore: Display: Writing chunks 3300/3964... [1907 compressed] [6065 compression tasks] [Physical: 3489 MiB, Virtual: 5598 MiB]
+[2025.09.06-16.54.51:273][  0]LogIoStore: Display: Writing chunks 3307/3964... [1914 compressed] [5927 compression tasks] [Physical: 3492 MiB, Virtual: 5578 MiB]
+[2025.09.06-16.54.53:282][  0]LogIoStore: Display: Writing chunks 3309/3964... [1916 compressed] [5795 compression tasks] [Physical: 3488 MiB, Virtual: 5550 MiB]
+[2025.09.06-16.54.55:295][  0]LogIoStore: Display: Writing chunks 3313/3964... [1920 compressed] [5658 compression tasks] [Physical: 3487 MiB, Virtual: 5528 MiB]
+[2025.09.06-16.54.57:328][  0]LogIoStore: Display: Writing chunks 3317/3964... [1924 compressed] [5519 compression tasks] [Physical: 3452 MiB, Virtual: 5473 MiB]
+[2025.09.06-16.54.59:331][  0]LogIoStore: Display: Writing chunks 3325/3964... [1932 compressed] [5378 compression tasks] [Physical: 3449 MiB, Virtual: 5445 MiB]
+[2025.09.06-16.55.01:331][  0]LogIoStore: Display: Writing chunks 3338/3964... [1945 compressed] [5201 compression tasks] [Physical: 3461 MiB, Virtual: 5430 MiB]
+[2025.09.06-16.55.03:332][  0]LogIoStore: Display: Writing chunks 3349/3964... [1956 compressed] [5055 compression tasks] [Physical: 3465 MiB, Virtual: 5416 MiB]
+[2025.09.06-16.55.05:333][  0]LogIoStore: Display: Writing chunks 3360/3964... [1967 compressed] [4894 compression tasks] [Physical: 3476 MiB, Virtual: 5399 MiB]
+[2025.09.06-16.55.07:343][  0]LogIoStore: Display: Writing chunks 3371/3964... [1978 compressed] [4738 compression tasks] [Physical: 3468 MiB, Virtual: 5368 MiB]
+[2025.09.06-16.55.09:344][  0]LogIoStore: Display: Writing chunks 3381/3964... [1988 compressed] [4587 compression tasks] [Physical: 3471 MiB, Virtual: 5349 MiB]
+[2025.09.06-16.55.11:348][  0]LogIoStore: Display: Writing chunks 3394/3964... [2001 compressed] [4422 compression tasks] [Physical: 3465 MiB, Virtual: 5313 MiB]
+[2025.09.06-16.55.13:357][  0]LogIoStore: Display: Writing chunks 3410/3964... [2017 compressed] [4253 compression tasks] [Physical: 3466 MiB, Virtual: 5301 MiB]
+[2025.09.06-16.55.15:368][  0]LogIoStore: Display: Writing chunks 3451/3964... [2059 compressed] [4085 compression tasks] [Physical: 3477 MiB, Virtual: 5291 MiB]
+[2025.09.06-16.55.17:375][  0]LogIoStore: Display: Writing chunks 3481/3964... [2088 compressed] [3920 compression tasks] [Physical: 3484 MiB, Virtual: 5280 MiB]
+[2025.09.06-16.55.19:381][  0]LogIoStore: Display: Writing chunks 3481/3964... [2088 compressed] [3776 compression tasks] [Physical: 3482 MiB, Virtual: 5279 MiB]
+[2025.09.06-16.55.21:389][  0]LogIoStore: Display: Writing chunks 3493/3964... [2100 compressed] [3598 compression tasks] [Physical: 3421 MiB, Virtual: 5206 MiB]
+[2025.09.06-16.55.23:389][  0]LogIoStore: Display: Writing chunks 3511/3964... [2118 compressed] [3444 compression tasks] [Physical: 3409 MiB, Virtual: 5185 MiB]
+[2025.09.06-16.55.25:413][  0]LogIoStore: Display: Writing chunks 3530/3964... [2137 compressed] [3257 compression tasks] [Physical: 3382 MiB, Virtual: 5155 MiB]
+[2025.09.06-16.55.27:416][  0]LogIoStore: Display: Writing chunks 3555/3964... [2162 compressed] [3077 compression tasks] [Physical: 3367 MiB, Virtual: 5133 MiB]
+[2025.09.06-16.55.29:417][  0]LogIoStore: Display: Writing chunks 3572/3964... [2179 compressed] [2926 compression tasks] [Physical: 3355 MiB, Virtual: 5102 MiB]
+[2025.09.06-16.55.31:418][  0]LogIoStore: Display: Writing chunks 3605/3964... [2212 compressed] [2761 compression tasks] [Physical: 3344 MiB, Virtual: 5085 MiB]
+[2025.09.06-16.55.33:420][  0]LogIoStore: Display: Writing chunks 3695/3964... [2302 compressed] [2505 compression tasks] [Physical: 3336 MiB, Virtual: 5067 MiB]
+[2025.09.06-16.55.35:423][  0]LogIoStore: Display: Writing chunks 3701/3964... [2308 compressed] [2271 compression tasks] [Physical: 3280 MiB, Virtual: 4992 MiB]
+[2025.09.06-16.55.37:424][  0]LogIoStore: Display: Writing chunks 3706/3964... [2313 compressed] [2102 compression tasks] [Physical: 3266 MiB, Virtual: 4959 MiB]
+[2025.09.06-16.55.39:442][  0]LogIoStore: Display: Writing chunks 3715/3964... [2322 compressed] [1874 compression tasks] [Physical: 3238 MiB, Virtual: 4907 MiB]
+[2025.09.06-16.55.41:449][  0]LogIoStore: Display: Writing chunks 3722/3964... [2329 compressed] [1617 compression tasks] [Physical: 3212 MiB, Virtual: 4854 MiB]
+[2025.09.06-16.55.43:477][  0]LogIoStore: Display: Writing chunks 3731/3964... [2338 compressed] [1432 compression tasks] [Physical: 3174 MiB, Virtual: 4804 MiB]
+[2025.09.06-16.55.45:489][  0]LogIoStore: Display: Writing chunks 3784/3964... [2391 compressed] [1210 compression tasks] [Physical: 3151 MiB, Virtual: 4768 MiB]
+[2025.09.06-16.55.47:493][  0]LogIoStore: Display: Writing chunks 3785/3964... [2392 compressed] [1068 compression tasks] [Physical: 3142 MiB, Virtual: 4749 MiB]
+[2025.09.06-16.55.49:494][  0]LogIoStore: Display: Writing chunks 3791/3964... [2398 compressed] [935 compression tasks] [Physical: 3122 MiB, Virtual: 4710 MiB]
+[2025.09.06-16.55.51:496][  0]LogIoStore: Display: Writing chunks 3793/3964... [2401 compressed] [796 compression tasks] [Physical: 3104 MiB, Virtual: 4682 MiB]
+[2025.09.06-16.55.53:498][  0]LogIoStore: Display: Writing chunks 3861/3964... [2468 compressed] [593 compression tasks] [Physical: 3082 MiB, Virtual: 4653 MiB]
+[2025.09.06-16.55.55:501][  0]LogIoStore: Display: Writing chunks 3861/3964... [2468 compressed] [467 compression tasks] [Physical: 3091 MiB, Virtual: 4661 MiB]
+[2025.09.06-16.55.57:506][  0]LogIoStore: Display: Writing chunks 3861/3964... [2468 compressed] [340 compression tasks] [Physical: 3095 MiB, Virtual: 4662 MiB]
+[2025.09.06-16.55.59:511][  0]LogIoStore: Display: Writing chunks 3861/3964... [2468 compressed] [204 compression tasks] [Physical: 3103 MiB, Virtual: 4666 MiB]
+[2025.09.06-16.56.00:948][  0]LogIoStore: Display: Writing and compressing took 143.70 seconds, writes to disk took 4.80 seconds for 1,605,098,816 bytes @ 334,216,203 bytes per second.
+[2025.09.06-16.56.00:950][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.09.06-16.56.00:951][  0]LogIoStore: Display: Lambdays_Labyrinth-Windows: Found perfect hashmap for 3963 items.
+[2025.09.06-16.56.00:966][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 902,098 bytes, 56,282,630 bytes per second
+[2025.09.06-16.56.00:966][  0]LogIoStore: Display: Writing tocs... [Physical: 2963 MiB, Virtual: 4516 MiB]
+[2025.09.06-16.56.00:966][  0]LogIoStore: Display: 784 / 3,964 hashes were loaded from the hash database, by type:
+[2025.09.06-16.56.00:967][  0]LogIoStore: Display:     BulkData                   784
+[2025.09.06-16.56.00:967][  0]LogIoStore: Display: 2,570 / 3,964 chunks attempted to compress, by type:
+[2025.09.06-16.56.00:967][  0]LogIoStore: Display:     ExportBundleData           1,786 / 1,786
+[2025.09.06-16.56.00:967][  0]LogIoStore: Display:     BulkData                   784 / 784
+[2025.09.06-16.56.00:967][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.09.06-16.56.00:967][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:     ShaderCode                 0 / 1,388
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: Source bytes read:
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:     Zen:                                  0
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:     Loose File:               4,175,267,354
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:         ExportBundleData       2,387,976,802 bytes over 3,572 reads
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:         BulkData               1,787,290,552 bytes over 784 reads
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:     Memory:                     136,149,842
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:         ShaderCodeLibrary         1,240,288 bytes over 8 reads
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display:         ShaderCode              134,909,554 bytes over 2,776 reads
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: Calculating stats...
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: Container Summary
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: ==================
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.29                 2.29 -
+[2025.09.06-16.56.00:968][  0]LogIoStore: Display: Lambdays_Labyrinth-Windows                          C/-/-/I/-            3963          880.33              2913.28              1528.45 (47.54% Oodle)
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Total                                                                    3964          880.96              2915.58              1530.74
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Compression block padding:     2.87 MiB
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Container Directory Index
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ==========================
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: global                                                   0.00
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Lambdays_Labyrinth-Windows                             114.64
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Container Patch Report
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ========================
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Lambdays_Labyrinth-Windows                               3963                0             3963             0.00          1525.57
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: PackageStore
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: =============
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Lambdays_Labyrinth-Windows                                 60            1786               0
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Total                                                      60            1786               0
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:      1786 Packages
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:      1.11 GB UExp
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:      1.66 GB UBulk
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:     47.56 MB for 902 Global shaders
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:      2.60 MB for 205 Shared shaders
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Input:     14.16 MB for 281 Inline shaders
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Output:    16915 Name map entries
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Output:     2607 Imported package entries
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Output:      848 Packages without imports
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: Output:     2.29 MB InitialLoadData
+[2025.09.06-16.56.00:970][  0]LogIoStore: Display: 
+[2025.09.06-16.56.00:981][  0]LogPakFile: Display: UnrealPak executed in 156.167777 seconds
+[2025.09.06-16.56.00:984][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.09.06-16.56.00:984][  0]LogExit: Preparing to exit.
+[2025.09.06-16.56.00:995][  0]LogExit: Object subsystem successfully closed.
+[2025.09.06-16.56.00:997][  0]LogPakFile: Destroying PakPlatformFile
+[2025.09.06-16.56.00:998][  0]LogExit: Exiting.
+[2025.09.06-16.56.01:016][  0]Log file closed, 09/06/25 17:56:01
